@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Nuria 👋
 
-<!--
-**nuriadg9/nuriadg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Matemática por la Universidad de Sevilla – TFG en curso
 
-Here are some ideas to get you started:
+## Sobre mí
+Me interesa el área Data, más en concreto el análisis y la ingeniería de datos. Tengo capacidad de aprender rápido y adaptarme a nuevos lenguajes y herramientas.
+Tengo gran iniciativa, por lo que estoy aprendiendo algunas de ellas para trabajar con pipelines de datos y en analítica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades técnicas
+- Lenguajes: Python, SQL
+- Python: Pandas
+- Bases de datos: PostgreSQL, MySQL
+- Visualización de datos: Power BI
+- SQL: consultas a bases de datos relacionales, manipulación y filtrado de datos, definición de tablas, claves primarias y foráneas
+
+## Habilidades personales
+- Pensamiento analítico
+- Proactividad
+- Responsabilidad
+- Trabajo en equipo
+
+## Interesada en aprender
+- PySpark
+- Scala
+- Snowflake
+- Bases de datos NoSQL (MongoDB)
+- Databricks
+- Entornos cloud (AWS, Microsoft Azure, Google Cloud)
+
+## Proyectos
+🔹 Proyectos de análisis de datos (próximamente)  
+🔹 Pipeline de datos (próximamente)
