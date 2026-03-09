@@ -2,6 +2,8 @@
 
 🎓 Matemática por la Universidad de Sevilla – TFG en curso
 
+![Banner](fot.png)
+
 ## Sobre mí
 Me interesa el área Data, más en concreto el análisis y la ingeniería de datos. Tengo capacidad de aprender rápido y adaptarme a nuevos lenguajes y herramientas.
 Tengo gran iniciativa, por lo que estoy aprendiendo algunas de ellas para trabajar con pipelines de datos y en analítica.
