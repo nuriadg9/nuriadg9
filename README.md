@@ -30,5 +30,5 @@ Tengo gran iniciativa, por lo que estoy aprendiendo algunas de ellas para trabaj
 - Entornos cloud (AWS, Microsoft Azure, Google Cloud)
 
 ## Proyectos
-🔹 Proyectos de análisis de datos (próximamente)  
-🔹 Pipeline de datos (próximamente)
+🔹 Currency Data API Pipeline: Desarrollo de un pipeline básico en Python mediante implementación de funciones automatizadas con datos extraidos desde una API pública.
+🔹 Pipeline de datos usando Python y PostgreSSQL (próximamente)
